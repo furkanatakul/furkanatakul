@@ -1,10 +1,13 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+My+Page)
 ### Hi there 👋, I'm Furkan
 #### Mathematical Engineering Student at Istanbul Technical University
+
 <h2 align="center">
 </h2> 
 <div id="header" align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
   <br>
+  
 I am currently a second-year mathematical engineering student at Istanbul Technical University. I believe I have a moderate command of all the languages I have added below. You can find my application called RemovApp, which I made in Java, and my own website, the Frontand(in HTML-CSS-JS) and Backend(in PHP) of which I coded, in Repositories.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:</b>
