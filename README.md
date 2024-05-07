@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+My+GitHub)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+My+GitHub%7C)
 ### Hi there 👋, I'm Furkan
 #### Mathematical Engineering Student at Istanbul Technical University
 
