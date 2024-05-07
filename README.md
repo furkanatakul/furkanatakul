@@ -16,4 +16,5 @@ I am currently a second-year mathematical engineering student at Istanbul Techni
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/furkanatakul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/furkanatakul/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=furkanatakul)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 </div>
