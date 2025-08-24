@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+My+GitHub%7C)
-#### I am currently a sophomore student studying Mathematical Engineering at Istanbul Technical University
+
 <h2 align="center">
 </h2> 
 <div id="header" align="center">
